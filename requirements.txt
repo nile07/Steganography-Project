@@ -1,0 +1,4 @@
+tk
+opencv-python
+pycryptodome
+Pillow
